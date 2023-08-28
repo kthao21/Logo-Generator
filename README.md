@@ -4,7 +4,7 @@
 
 The purpose of this application is to use Node.js command-line application to take in user input and generate a logo and save it as an SVG file.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
